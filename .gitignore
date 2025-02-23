@@ -1,0 +1,4 @@
+# Ignore les fichiers temporaires
+__pycache__/
+.DS_Store
+.env
